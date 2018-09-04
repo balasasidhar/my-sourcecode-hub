@@ -12,4 +12,4 @@ Soucre code is availabe in the following Programming languages :
 
 > *Note* : _Feel free to copy and re-use the source code._
 
-Follow on FB : ###### https://www.fb.com/mysourcecodehub
+Follow on FB to get quick updates : https://www.fb.com/mysourcecodehub
